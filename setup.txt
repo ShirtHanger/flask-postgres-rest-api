@@ -1,0 +1,23 @@
+Instal flask stuff with this:
+
+---------------
+pipenv install flask psycopg2-binary python-dotenv
+---------------
+
+Activate virtual environment
+
+---------------
+pipenv shell
+---------------
+
+run server
+
+---------------
+python3 app.py
+---------------
+
+Exit VE
+
+---------------
+exit
+---------------
